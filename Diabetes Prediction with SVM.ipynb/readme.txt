@@ -1,13 +1,11 @@
-# Rock vs Mine Prediction using Sonar Data
+🩺 Diabetes Prediction using SVM
+This project implements a Support Vector Machine (SVM) model to predict whether a person has diabetes using the Pima Indians Diabetes dataset.
 
-This project implements a **Logistic Regression model** to classify objects as **rock or mine** using the **Sonar dataset**.
-
-## 📂 Dataset
-- The dataset consists of **sonar readings** reflected from different surfaces.
-- The goal is to classify whether an object is a **rock** or a **mine** based on the sonar signal frequencies.
-
-## 🛠️ Tech Stack
-- Python
-- NumPy
-- Pandas
-- Scikit-Learn
+📂 Dataset
+The dataset consists of medical and lifestyle features such as glucose levels, BMI, blood pressure, etc.
+The goal is to classify whether a person is diabetic or non-diabetic based on these health indicators.
+🛠️ Tech Stack
+Python
+NumPy
+Pandas
+Scikit-Learn
