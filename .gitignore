@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# FastAPI / env
+.env
+*.log
+
+# PyTorch models
+*.pt
+*.pth
+*.ckpt
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
